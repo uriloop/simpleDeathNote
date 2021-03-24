@@ -1,0 +1,230 @@
+
+
+Aquest es l'aspecte que vull que tingui
+
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                         Index:                                   |      Nota amb id: index
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|        - How to use it. (manual del DEATH NOTE)                  |      >> comanda: how >> id: how
+==|                                                                  |
+==|        - Crear nota nova. (ja saps a qui mataràs?)               |      >> comanda: crear >> id: crear
+==|                                                                  |
+==|        - Llista notes guardades.  (a qui has matat?)             |      >> comanda: llista >> id: null/llista
+==|                                                                  |
+==|        - Apaga el programa.   (no t'oblidis d'amagar-me bé)      |      >> comanda: apaga >> id: null/apaga
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|             <how>   <crear>   <llista>   <apaga>                 |
+==|····*·*·*·*·*·****************************************************|
+
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                   1 -    how to use it:                          |      Nota amb id: how
+==|                                                                  |
+==|   - The Shinigami's voice and form will go completely            |
+==|      unnoticed by others.                                        |
+==|   - In return for letting you keep the notebook, the Shinigami   |
+==|     may take it back at any time.                                |
+==|   - Those who do not wish to be followed by the Shinigami can    |
+==|     get rid of him simply by giving the notebook back or         |
+==|     throwing it away.                                            |
+==|   - It is up to the owner to decide how to use the notebook --   |
+==|     whether it be for world conquest, getting rid of that one    |
+==|     guy, or choosing to not keep such a terrifying item.         |
+==|   - This Death Note can only be used by the one who found it.    |
+==|     If the owner throws it away or loses it, the right of        |
+==|     ownership is automatically transferred to whoever next       |
+==|     picks it up.                                                 |
+==|   - One must know the face of the person whose name is written   |
+==|     down for there to be an effect. That way, people with the    |
+==|     same names will not be affected all at once.                 |
+==|   - You can write with any pen: the color doesn't matter. If     |
+==|     you use a sticker with a name printed on it, there will be   |
+==|     no effect. Please write directly onto the notebook.  It      |
+==|     would be a good idea to change your handwriting as much as   |
+==|     possible.                                                    |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                        <how2>   <index>                          |
+==|····*·*·*·*·*·****************************************************|
+
+
+
+
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                     2 -    how to use it:                        |      Nota amb id: how2
+==|                                                                  |
+==|   - If you write a cause of death after the name like this:      |
+==|     (Name) died from (cause), then that will happen.             |
+==|   - These letters cannot be erased. (Arrow pointed at the words  |
+==|     "Death Note" on the cover.)                                  |
+==|   - If the cover is destroyed, the notebook cannot be used.      |
+==|   - Be careful not to let other people see it.                   |
+==|   - You will not die if you write your name here, but it is      |
+==|     not recommended.                                             |
+==|   - The human whose name is written in this note shall die.      |
+==|     This note will not take effect unless the writer has the     |
+==|     subject's face in mind when writing his/her name. This is    |
+==|     to prevent people who share the same name from being         |
+==|     affected.                                                    |
+==|   - If the cause of death is written within 40 seconds of the    |
+==|     subject's name, it will happen.                              |
+==|   - If the cause of death is not specified, the subject will     |
+==|     die of a heart attack.                                       |
+==|   - After writing the cause of death, details of death should be |
+==|     entered within the next six minutes and 40 seconds.          |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                        <how3>   <index>                          |          Vitagem al següent how.
+==|····*·*·*·*·*·****************************************************|
+(escriu comanda)
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                           Crear:                                 |      Nota amb id: crear
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==| (nomPersona) <died from> (causa mort) (especificacions)          |
+==|                                                                  |
+==|                                                                  |
+==|  nom: (introdueix nom)       cognom:                             |
+==|                                                                  |
+==|  causa:                                                          |
+==|                                                                  |
+==|  especificacions:                                                |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                  <-nom d'algú->   <index>                        |      A cada pas una opció:   1- Nom    2- Cognom    3- Causa     4- Especificacions
+==|····*·*·*·*·*·****************************************************|      index sempre com a opció. si s'ha escrit almenys el nom i sortim ja queda guardat
+                                                                                        (nom és obligatori xq es guardi)
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                           mort :                                 |      Nota amb id: nom+cognom
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|  nom: Josep         cognom:  Tarradelles                         |
+==|                                                                  |
+==|  causa:                                                          |
+==|                                                                  |
+==|  especificacions:                                                |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                     <llista>   <index>                           |
+==|····*·*·*·*·*·****************************************************|
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                        Llista 1 :                                |      Nota amb id: lista1
+==|                                                                  |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                     <llista2>   <index>                          |
+==|····*·*·*·*·*·****************************************************|
+
+
+==|──────────────────────────────────────────────────────────────────|
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                           Llista 2 :                             |      Nota amb id: lista2
+==|                                                                  |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|         - Cognom, Nom               -Cognom, Nom                 |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|                                                                  |
+==|          ──────────────  Comandes:  ──────────────               |
+==|                                                                  |
+==|                     <llista>   <index>                          |
+==|····*·*·*·*·*·****************************************************|
+
+
